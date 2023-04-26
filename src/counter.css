@@ -1,0 +1,34 @@
+* {
+	background-color: gold;
+}
+
+.header{
+	text-align: center;
+	font-weight: 900;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+}
+
+.container2 {
+	display: flex;
+	justify-content: center;
+
+}
+
+.count{
+	text-align: center;
+}
+
+.add, .sub{
+	background-color: black;
+	color: gold;
+	text-align: center;
+
+
+	
+	
+}
